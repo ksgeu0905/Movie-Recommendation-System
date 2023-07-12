@@ -1,0 +1,10 @@
+requirements.txt filter=lfs diff=lfs merge=lfs -text
+static filter=lfs diff=lfs merge=lfs -text
+templates filter=lfs diff=lfs merge=lfs -text
+Movie_Recommendation_system.ipynb filter=lfs diff=lfs merge=lfs -text
+Procfile filter=lfs diff=lfs merge=lfs -text
+app.py filter=lfs diff=lfs merge=lfs -text
+contact_us.sqlite filter=lfs diff=lfs merge=lfs -text
+Datasets filter=lfs diff=lfs merge=lfs -text
+Models filter=lfs diff=lfs merge=lfs -text
+moviesenv filter=lfs diff=lfs merge=lfs -text
